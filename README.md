@@ -44,7 +44,7 @@ Backup Server 03: Maintenance
 
 This allows administrators to quickly identify which servers need attention.
 
-3. Account and Permission Management
+### 3. Account and Permission Management
 
 The system may include user authentication and role-based access control.
 
@@ -53,7 +53,7 @@ Example roles:
 Admin: Full access to manage the system
 Staff: Can update server status and notes
 User: Can only view server information
-4. Notes and Maintenance History
+### 4. Notes and Maintenance History
 
 Each server can have its own notes section to store important technical information.
 
@@ -62,7 +62,7 @@ Example:
 - Password changed on May 1, 2026
 - This server is used for testing
 - VPS must be renewed before May 15, 2026
-5. Expiration and Error Alerts
+### 5. Expiration and Error Alerts
 
 The system can remind users when a server is close to expiration or when a server is offline.
 
@@ -135,4 +135,4 @@ Activity logs
 AI-powered server issue analysis
 Project Goal
 
-The main goal of this project is to replace manual server management methods such as notes, spreadsheets, or chat messages with a more structured and professional management system.
+### .The main goal of this project is to replace manual server management methods such as notes, spreadsheets, or chat messages with a more structured and professional management system.
